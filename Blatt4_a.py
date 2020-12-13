@@ -6,6 +6,7 @@ __author__ = "5984035, Laßmann, XXXXXXX, XXXXXX"
 
 import random
 
+
 #faces_o = [1, 2, 3, 4, 5, 6]
 
 def roll_dice(number = 1, faces = 6,seed = None):
