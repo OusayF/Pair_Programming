@@ -43,11 +43,11 @@ user_main_menue()
 
 
 def winning_screen():
-    print(" ")
+    print("")
     print("")
     print(" ~~~~~~~~~~~~Glückwunsch Sie haben gewonnen!!!~~~~~~~~~~~")
     print("")
-    print(" ")
+    print("")
 
 
 
