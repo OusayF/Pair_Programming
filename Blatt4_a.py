@@ -27,3 +27,6 @@ def player_list():
 
     # Add a Player
     players.append([i,0])
+    
+    
+print("Hi")
